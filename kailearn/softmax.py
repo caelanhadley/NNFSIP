@@ -15,6 +15,13 @@ exp_values = np.exp(layer_outputs)
 print(exp_values)
 print()
 
+# When using softmax in a model the (-) operation before exponentiation
+# is to prevent the 'explosion' of values growing to infinity.
+exp_values = np.exp(layer_outputs - np.max(layer_outputs, axis=1, keepdims=True))
+print(exp_values)
+print()
+
+# Without subtraction method noted above.
 norm_values = exp_values / np.sum(exp_values)
 print(norm_values)
 print()
