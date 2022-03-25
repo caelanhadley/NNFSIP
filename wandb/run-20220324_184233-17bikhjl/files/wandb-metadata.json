@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.11",
+    "heartbeatAt": "2022-03-24T23:42:35.389636",
+    "startedAt": "2022-03-24T23:42:33.745497",
+    "docker": null,
+    "gpu": "GeForce GTX 1060 6GB",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "c:\\Users\\Caelan\\Documents\\GitHub\\NNFSIP\\models\\model_2\\model_2.py",
+    "codePath": "models\\model_2\\model_2.py",
+    "host": "DESKTOP-NMMTRQK",
+    "username": "Caelan",
+    "executable": "C:\\Users\\Caelan\\Anaconda3\\envs\\mainenv\\python.exe"
+}
