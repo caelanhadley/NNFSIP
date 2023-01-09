@@ -1,0 +1,22 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.8.1",
+    "heartbeatAt": "2022-03-25T19:25:26.479819",
+    "startedAt": "2022-03-25T19:25:23.031612",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "c:\\Users\\Caelan Hadley\\Documents\\GitHub\\NNFSIP\\models\\model_3\\model_3.py",
+    "codePath": "models\\model_3\\model_3.py",
+    "git": {
+        "remote": "https://github.com/caelanhadley/NNFSIP.git",
+        "commit": "da048af5ded549db7464b206b255104900b40ab8"
+    },
+    "email": "caelanhadley@gmail.com",
+    "root": "C:/Users/Caelan Hadley/Documents/GitHub/NNFSIP",
+    "host": "DESKTOP-N88D9L4",
+    "username": "Caelan Hadley",
+    "executable": "C:\\Users\\Caelan Hadley\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
+}

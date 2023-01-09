@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "c:\Users\Caelan Hadley\Documents\GitHub\NNFSIP\models\model_3\model_3.py", line 149, in <module>
+    X, y = create_data(100, 3)
+NameError: name 'create_data' is not defined
